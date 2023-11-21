@@ -31,6 +31,5 @@ Download the file and run MarsRoverSimulation.java
 2.Status Report: "Rover is at (1, 3) facing North. No obstacles detected."
 
 ## Author
-KOTHA CHAKRADHAR
-
+KOTHA CHAKRADHAR  
 BL.EN.U4CSE20081
