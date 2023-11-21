@@ -21,13 +21,13 @@ Create a simulation for a Mars Rover that can navigate a grid-based terrain. The
 Download the file and run MarsRoverSimulation.java
 
 ## Input
-1.Grid Size: (10 x 10)
-2.Starting Position: (0, 0, N)
-3.Commands: ['M', 'M', 'R', 'M', 'L', 'M']
+1.Grid Size: (10 x 10)  
+2.Starting Position: (0, 0, N)  
+3.Commands: ['M', 'M', 'R', 'M', 'L', 'M']  
 4. Obstacles: [(2, 2), (3, 5)]
 
 ## Output
-1.Final Position: (1, 3, N)
+1.Final Position: (1, 3, N)  
 2.Status Report: "Rover is at (1, 3) facing North. No obstacles detected."
 
 ## Author
