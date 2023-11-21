@@ -22,6 +22,6 @@ Possible Inputs
 Possible Outputs
   Final Position: (1, 3, N)
   Status Report: "Rover is at (1, 3) facing North. No Obstacles detected."
-By:
+By
   Name: Kotha Chakrahar
   Reg No. BL.EN.U4CSE20081
